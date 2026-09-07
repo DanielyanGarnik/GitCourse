@@ -4,3 +4,4 @@ go to folder
 Master commit
 diff comand
 stash
+tag
