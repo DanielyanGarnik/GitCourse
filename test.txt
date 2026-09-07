@@ -3,3 +3,4 @@ feature new branch
 go to folder
 Master commit
 diff comand
+stash
