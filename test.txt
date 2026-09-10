@@ -1,7 +1,7 @@
 Hello Git
 feature new branch
 go to folder
-Master commit
+Master Version
 diff comand
 stash
 tag
