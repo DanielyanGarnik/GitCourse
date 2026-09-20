@@ -1,1 +1,2 @@
 First rebase line
+Second rebase line
